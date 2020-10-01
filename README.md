@@ -3,11 +3,11 @@ A collection of all the algorithms used for exploratory data analysis in Data Sc
 
 This repository will contain all the data cleaning algorithms that are required for preproccessing before you actually start building a Machine Learning Model. You may get your changes merged here by submitting a Pull Request 🔥
 
-# Q. How will I get my changes merged(how should I open a pull request)
+## Q. How will I get my changes merged(how should I open a pull request)
 
 A. You may propose your changes via a Pull REquest. For how to open a pull request, give [this](https://opensource.com/article/19/7/create-pull-request-github) a read, if stuck, please ping anyone of the maintainers for help.
 
-# Q. How should I begin contributing here?
+## Q. How should I begin contributing here?
 
 A. Well, it is simple enough,follow the procedure
 
